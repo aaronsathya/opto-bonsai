@@ -1,2 +1,2 @@
 # opto-bonsai
-Optogenetics related computer modules made with Bonsai
+Fiber photometry and optogenetics related computer modules made with Bonsai
